@@ -1,0 +1,11 @@
+D:\CodeGym\Bai2\dotnet-change-temperature\bin\Debug\netcoreapp3.1\dotnet-change-temperature.exe
+D:\CodeGym\Bai2\dotnet-change-temperature\bin\Debug\netcoreapp3.1\dotnet-change-temperature.deps.json
+D:\CodeGym\Bai2\dotnet-change-temperature\bin\Debug\netcoreapp3.1\dotnet-change-temperature.runtimeconfig.json
+D:\CodeGym\Bai2\dotnet-change-temperature\bin\Debug\netcoreapp3.1\dotnet-change-temperature.runtimeconfig.dev.json
+D:\CodeGym\Bai2\dotnet-change-temperature\bin\Debug\netcoreapp3.1\dotnet-change-temperature.dll
+D:\CodeGym\Bai2\dotnet-change-temperature\bin\Debug\netcoreapp3.1\dotnet-change-temperature.pdb
+D:\CodeGym\Bai2\dotnet-change-temperature\obj\Debug\netcoreapp3.1\dotnet-change-temperature.csprojAssemblyReference.cache
+D:\CodeGym\Bai2\dotnet-change-temperature\obj\Debug\netcoreapp3.1\dotnet-change-temperature.AssemblyInfoInputs.cache
+D:\CodeGym\Bai2\dotnet-change-temperature\obj\Debug\netcoreapp3.1\dotnet-change-temperature.AssemblyInfo.cs
+D:\CodeGym\Bai2\dotnet-change-temperature\obj\Debug\netcoreapp3.1\dotnet-change-temperature.dll
+D:\CodeGym\Bai2\dotnet-change-temperature\obj\Debug\netcoreapp3.1\dotnet-change-temperature.pdb
